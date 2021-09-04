@@ -7,4 +7,6 @@
 使用微信小程序 + colorui制作 根据微信接口生成小程序码，教育、工作经历的样式是动态添加，所有模板的字段都是动态生成不是写死的。而文件下载采用微信系统的fsm通过下载字节流来保存文件
 
 页面演示：
-![Image text](https://github.com/yidinshi/review/blob/main/images/WechatIMG291.jpeg)
+
+
+<img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG291.jpeg" width="200" height="200" alt="微信小程序"/><br/>
