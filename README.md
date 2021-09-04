@@ -9,4 +9,4 @@
 页面演示：
 
 
-<img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG291.jpeg" width="200" height="200" alt="微信小程序"/><br/>
+<img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG291.jpeg" width="200" height="400" alt="微信小程序"/><br/>
