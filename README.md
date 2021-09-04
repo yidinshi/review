@@ -6,6 +6,10 @@
 功能：
 使用微信小程序 + colorui制作 根据微信接口生成小程序码，教育、工作经历的样式是动态添加，所有模板的字段都是动态生成不是写死的，比如增加一项目教育经历就会出现一组界面元素，不是提前写死。而文件下载采用微信系统的fsm通过下载字节流来保存文件
 
+扫码体验：
+<br/>
+<img src="https://github.com/yidinshi/review/blob/main/images/gh_e48f720d1961_258.jpg" width="350" height="350" alt="微信小程序"/><br/>
+<br/>
 页面演示：
 
 
@@ -16,6 +20,3 @@
 <img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG287.jpeg" width="350" height="700" alt="微信小程序"/><br/>
 <img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG286.jpeg" width="350" height="700" alt="微信小程序"/><br/>
 
-扫码体验：
-<br/>
-<img src="https://github.com/yidinshi/review/blob/main/images/gh_e48f720d1961_258.jpg" width="350" height="350" alt="微信小程序"/><br/>
