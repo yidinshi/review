@@ -10,3 +10,11 @@
 
 
 <img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG291.jpeg" width="350" height="700" alt="微信小程序"/><br/>
+<img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG290.jpeg" width="350" height="700" alt="微信小程序"/><br/>
+<img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG289.jpeg" width="350" height="700" alt="微信小程序"/><br/>
+<img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG288.jpeg" width="350" height="700" alt="微信小程序"/><br/>
+<img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG287.jpeg" width="350" height="700" alt="微信小程序"/><br/>
+<img src="https://github.com/yidinshi/review/blob/main/images/WechatIMG286.jpeg" width="350" height="700" alt="微信小程序"/><br/>
+
+扫码体验：
+<img src="https://github.com/yidinshi/review/blob/main/images/gh_e48f720d1961_258.jpg" width="350" height="700" alt="微信小程序"/><br/>
